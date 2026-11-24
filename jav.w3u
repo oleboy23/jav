@@ -1,0 +1,19 @@
+{
+  "name": "JAV",
+  "author": "boy23",
+  "info": "online",
+  "image": "https://theiac.co.uk/wp-content/uploads/2024/06/AV_Logo-1024x647.png",
+  "url": "",
+  "groups": [
+    {
+      "name": "Mukai Ai",
+      "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/gmWmjmAXyqAppbfzlDB2MYncCBd.jpg",
+      "url": "https://raw.githubusercontent.com/oleboy23/jav/refs/heads/main/mukai.w3u"
+    },
+    {
+      "name": "Tsukasa aoi",
+      "image": "https://av-th.io/wp-content/uploads/2020/03/87275064_203033667738140_1667085401254264832_o-165x248.jpg",
+      "url": "https://raw.githubusercontent.com/oleboy23/jav/refs/heads/main/aoi2.w3u"
+    }
+  ]
+}
